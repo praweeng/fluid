@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "ReactNative",
+        "decscription": "Reactnative for hybrid mobile application development based on Reactjs",
+        "image": { "url": "https://facebook.github.io/react-native/img/opengraph.png" }
+    },
+    {
+        "id": 2,
+        "title": "Ionic",
+        "decscription": "Ionic for hybrid mobile application development based on Angular",
+        "image": { "url": "https://ionicframework.com/img/ionic-meta.jpg" }
+    },
+    {
+        "id": 3,
+        "title": "NativeScript",
+        "decscription": "NativeScript by telerik for hybrid mobile application development based on native componenets of respective OS",
+        "image": { "url": "https://www.nativescript.org/images/default-source/home/nativescript-logo.png?sfvrsn=2" }
+    },
+    {
+        "id": 4,
+        "title": "PhoneGap",
+        "decscription": "PhoneGap for hybrid mobile application development based on Html n css webview",
+        "image": { "url": "https://i0.wp.com/www.clearlyinnovative.com/wp-content/uploads/2010/08/phonegap.jpg?fit=640%2C250" }
+    },
+    {
+        "id": 5,
+        "title": "Cordava",
+        "decscription": "Cordava for hybrid mobile application development based on Html n css webview",
+        "image": { "url": "https://cordova.apache.org/static/img/artwork/cordova_logo_normal_dark_large.png" }
+    }
+]
